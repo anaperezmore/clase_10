@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.containerImage{
+    display: grid;
+    grid-template-columns:repeat(2, 200px) ;
+    grid-template-rows:repeat(2,200px);
+   
+
+}
